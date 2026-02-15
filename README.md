@@ -33,8 +33,6 @@ I specialize in:
 
 👉 Turning raw data into revenue-driving insights.
 
-*(Recruiters LOVE this sentence — never remove it 😄)*
-
 ---
 
 ## 🛠️ Tech Stack
@@ -63,7 +61,7 @@ I specialize in:
 # 🚀 Featured Projects
 
 
-## 🔷 Modern Analytics Engineering Pipeline (DBT + BigQuery)
+## 🔷 Analytics Engineering Pipeline (DBT + BigQuery)
 
 <div align="center">
   <a href="https://github.com/Ziad7asn/analytics-engineer">
