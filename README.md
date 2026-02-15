@@ -1,18 +1,151 @@
-# 💫 About Me:
-Hey 👋, I'm Ziad Ehab!<br><br>As a passionate and results-driven Data Scientist and Data Analyst, I am dedicated to leveraging data-driven insights to solve real-world challenges. <br>Proficient in Python, SQL, and data visualization tools, I excel at efficiently analyzing and interpreting complex datasets. <br>My expertise in machine learning and deep learning allows me to build predictive models and extract valuable patterns from data. Eager to collaborate with teams and share innovative solutions. <br>Let's connect and explore the world of data together! 🚀<br><br>📊 Passionate about delivering data-driven insights and continuous growth<br><br>👨‍💻 My projects Kaggle  https://www.kaggle.com/ziadehab0 <br>
+<!-- ================================
+        Ziad Ehab — Elite README
+================================ -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ziad.ehab.5245) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ziad.ehab15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ziad-ehab-953183244) 
+# Ziad Ehab  
+### Data Analyst | Analytics Engineer | BI Developer  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ziad7asn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ziad7asn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziad7asn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Turning+Data+Into+Decisions;Analytics+Engineer+in+Progress;Power+BI+%7C+SQL+%7C+Python;Building+Modern+BI+Systems&center=true&width=500&height=45">
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ziad7asn&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+Data Analyst based in **Cairo** with strong experience transforming messy, fast-moving business data into **clear dashboards and decision-ready insights**.
+
+I specialize in:
+
+✅ KPI Design  
+✅ Data Modeling  
+✅ Dashboard Development  
+✅ Analytics Engineering  
+✅ Business Storytelling  
+
+🎯 **Current Focus:** Transitioning toward **Product Analytics & Modern Data Stack**
+
+---
+
+## 🧠 Core Strength
+
+👉 Turning raw data into revenue-driving insights.
+
+*(Recruiters LOVE this sentence — never remove it 😄)*
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,git,github" height="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftsqlserver.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/powerbi.svg" height="45"/>
+
+</div>
+
+### Analytics Toolbox
+✔ SQL  
+✔ Power BI  
+✔ Excel  
+✔ Python  
+✔ DBT  
+✔ BigQuery  
+✔ PostgreSQL  
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🔷 Modern Analytics Engineering Pipeline (DBT + BigQuery)
+
+<div align="center">
+  <a href="https://github.com/Ziad7asn/analytics-engineer">
+    <img src="https://raw.githubusercontent.com/Ziad7asn/analytics-engineer/main/flow.png" height="260"/>
+  </a>
+</div>
+
+### 📌 Overview
+Built a scalable analytics workflow using DBT to transform raw data into structured, analytics-ready models.
+
+### 🎯 Business Impact
+✔ Improved data reliability through structured modeling  
+✔ Created reusable datasets for BI tools  
+✔ Reduced reporting complexity  
+
+### 🧠 What This Shows
+**Engineering mindset + Modern data stack + Scalable architecture**
+
+### ⚙️ Stack
+`DBT` • `BigQuery` • `SQL` • `Data Modeling`
+
+👉 **Repo:**  
+https://github.com/Ziad7asn/analytics-engineer
+
+---
+
+## 🔷 HR Analytics Dashboard
+
+<div align="center">
+  <a href="https://github.com/Ziad7asn/HR-Analytics-Power-BI">
+    <img src="https://raw.githubusercontent.com/Ziad7asn/HR-Analytics-Power-BI/main/Screenshot%20(10).png" height="260"/>
+  </a>
+</div>
+
+### 📌 Overview
+Designed an interactive HR analytics dashboard to uncover attrition drivers, monitor workforce trends, and support leadership in making data-driven retention decisions.
+
+### 🎯 Business Impact
+✔ Identified key factors influencing employee turnover  
+✔ Enabled faster decision-making through executive-level visualization  
+✔ Transformed raw HR data into actionable insights  
+
+### 🧠 What This Shows
+**Business thinking + Data visualization + KPI design**
+
+### ⚙️ Stack
+`Power BI` • `DAX` • `SQL` • `Excel`
+
+👉 **Repo:**  
+https://github.com/Ziad7asn/HR-Analytics-Power-BI
+
+---
+
+
+
+# 🎯 Career Direction
+
+Moving toward roles that combine:
+
+✔ Analytics  
+✔ Product Thinking  
+✔ Engineering Mindset  
+✔ Business Impact  
+
+👉 **Goal:** Become a top-tier Product / Analytics Engineer.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ziadehab/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:ziadehab.data@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+</div>
+
+---
+
+⭐ *Always building. Always learning.*
